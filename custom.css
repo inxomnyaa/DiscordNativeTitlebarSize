@@ -1,13 +1,31 @@
-.typeWindows_a934d8.withFrame_a934d8.titleBar_a934d8 {
-    line-height: 30px;
+.typeWindows__421ed.withFrame__421ed.titleBar__421ed {
     align-items: center;
     height: 30px;
-    top: 0px;
     margin-top: 0px;
 }
 
-.typeWindows_a934d8.withFrame_a934d8.titleBar_a934d8 .winButton_a934d8 {
-    height: 30px;
+.typeWindows__421ed.withFrame__421ed.titleBar__421ed .winButton__421ed {
+    height: 100%;
     width: 46px;
     top: 0px;
+}
+
+.typeWindows__421ed {
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row-reverse;
+    display: flex;
+    align-content: center;
+}
+
+.wordmarkWindows__421ed {
+    position: revert;
+    padding: 0px 9px;
+    color: var(--text-muted);
+    flex: auto;
+    order: 1;
+}
+
+.platform-win .bg__960e4 {
+    top: -30px;
 }
